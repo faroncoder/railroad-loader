@@ -6,7 +6,8 @@
   "unpkg": "dist/loader.min.js",
   "jsdelivr": "dist/loader.min.js",
   "scripts": {
-    "build": "mkdir -p dist && cp src/loader.js dist/ && npx terser src/loader.js -c -m -o dist/loader.min.js"
+    "build": "mkdir -p dist && cp src/loader.js dist/ && npx terser src/loader.js -c -m -o dist/loader.min.js",
+    "test": "echo \"No tests yet\" && exit 0"
   },
   "keywords": [
     "loader",
