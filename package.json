@@ -1,0 +1,42 @@
+{
+  "name": "railroad-loader",
+  "version": "1.0.0",
+  "description": "Animated DNA helix loader with terminal-style progress messages. Built on Railroad Runtime philosophy.",
+  "main": "dist/loader.js",
+  "unpkg": "dist/loader.min.js",
+  "jsdelivr": "dist/loader.min.js",
+  "scripts": {
+    "build": "mkdir -p dist && cp src/loader.js dist/ && npx terser src/loader.js -c -m -o dist/loader.min.js"
+  },
+  "keywords": [
+    "loader",
+    "spinner",
+    "progress",
+    "htmx",
+    "animation",
+    "ui",
+    "railroad",
+    "vanilla-js",
+    "zero-dependencies"
+  ],
+  "author": "Faron Coder",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faroncoder/railroad-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/faroncoder/railroad-loader/issues"
+  },
+  "homepage": "https://github.com/faroncoder/railroad-loader#readme",
+  "devDependencies": {
+    "terser": "^5.16.0"
+  },
+  "files": [
+    "dist/",
+    "src/",
+    "examples/",
+    "README.md",
+    "LICENSE"
+  ]
+}
