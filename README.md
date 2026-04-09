@@ -1,5 +1,6 @@
 
-<img width="1200" height="896" alt="openart-image_1775755360079_a1e0769a_1775755360132_79dff5bc" src="https://github.com/user-attachments/assets/569b9b8b-6bab-4669-b251-698d6719992e" />
+<img width="691" height="795" alt="openart-image_1775755360079_a1e0769a_1775755360132_79dff5bc" src="https://github.com/user-attachments/assets/28381b0c-aa4c-4328-a920-9a00d573f7ba" />
+
 
 # Railroad Loader
 
