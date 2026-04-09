@@ -1,6 +1,6 @@
 {
   "name": "railroad-loader",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "description": "Animated DNA helix loader with terminal-style progress messages. Built on Railroad Runtime philosophy.",
   "main": "dist/loader.js",
   "unpkg": "dist/loader.min.js",
